@@ -1,4 +1,14 @@
 h1 {
-   color: blue;
+   color: black;
+   font-size: 50px
 }
 
+h2 {
+   color: black;
+   font-size: 35px;
+}
+
+p {
+   color: black;
+   font-size: 35px;
+}
